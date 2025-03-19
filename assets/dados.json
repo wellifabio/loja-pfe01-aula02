@@ -75,6 +75,12 @@
         "descricao":"Cueca Boxer Algodão Azul Plus Size 000852 - PlusMan Brasil",
         "preco":28.35,
         "imagem":"https://www.plusmanbrasil.com.br/wp-content/uploads/2020/10/PLUS-SIZE-PlusmanBrasil-Cueca-Boxer-000852-2-1.jpg"
+    },
+    {
+        "id":13,
+        "produto":"Biscoito",
+        "descricao":"Biscoito de exemplo",
+        "preco":9.99,
+        "imagem":"https://hileia.com.br/wp-content/uploads/2021/09/biscoito-maizena.jpg"
     }
-    
 ]
