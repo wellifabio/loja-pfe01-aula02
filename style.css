@@ -31,7 +31,17 @@ footer {
     height: 10vh;
     display: flex;
     align-items: center;
-    justify-content: center;
+    justify-content: space-around;
+
+    & button {
+        background-color: var(--c3);
+        border: none;
+        padding: 5px 10px;
+        border-radius: 5px;
+        box-shadow: 0 0 5px var(--t2);
+        font-weight: bold;
+        cursor: pointer;
+    }
 }
 
 main {
@@ -61,7 +71,7 @@ main {
         max-width: 250px;
     }
 
-    & button{
+    & button {
         background-color: var(--c3);
         border: none;
         padding: 5px 10px;
